@@ -5,3 +5,5 @@ langkah memahami programmer
 -melanjutkan istilah britch 
 -menambahkan dan mengedit preview 
 -di kanal yt #4 part empat 
+-berhasil menyambungkan cabang ke pohon utama-repo-main
+-melanjutkan menghapus cabang -menjadi 1 main saja 
