@@ -1,4 +1,5 @@
 PEMBELAJARAN SELANJUTNYA
 -membuat file baru dengan format txt 
 -file yang sama 
--melanjutkan menonotn 
+-berhasil membuat cabang di brich 
+-cabang menjadi 2 karena terdapat 2 file di 2 repository 
