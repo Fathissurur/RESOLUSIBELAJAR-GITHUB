@@ -1,0 +1,5 @@
+langkah memahami programmer
+-membedakan git dan github
+-membuat akun github
+-membuat repository 
+-dll
