@@ -7,3 +7,4 @@ langkah memahami programmer
 -di kanal yt #4 part empat 
 -berhasil menyambungkan cabang ke pohon utama-repo-main
 -melanjutkan menghapus cabang -menjadi 1 main saja 
+menambahkan materi repo 1
