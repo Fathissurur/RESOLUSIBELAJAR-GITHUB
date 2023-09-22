@@ -3,3 +3,4 @@ langkah memahami programmer
 -membuat akun github
 -membuat repository 
 -dll
+-menambahkan dan mengedit preview 
